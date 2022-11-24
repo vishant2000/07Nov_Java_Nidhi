@@ -1,6 +1,11 @@
 1.  What is software? What is software engineering? 
 --> Software is the collection of Insturction, Information, Data.
---> Software Engineering is a systematic, disciplined, quantifiable study and approach to the design, development, operation, and maintenance of a software system.
+--> Software Engineering is a systematic, disciplined study and approach to the design, development, and maintenance of a software system.
 
 2.  Explain types of software.
---> 
+--> There are 3 types of software
+--> a) System Software
+--> b) Programming Software
+--> c) Application Software
+
+--> a) System Software:- System software are OS means operating system. i.e. Linux, Windows, MacOS...
