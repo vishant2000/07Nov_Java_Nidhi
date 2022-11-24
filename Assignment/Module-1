@@ -2,11 +2,24 @@
 --> Software is the collection of Insturction, Information, Data.
 --> Software Engineering is a systematic, disciplined study and approach to the design, development, and maintenance of a software system.
 
+
 2.  Explain types of software.
 --> There are 3 types of software
 --> a) System Software
 --> b) Programming Software
 --> c) Application Software
 
---> a) System Software:- System software are OS means operating system. i.e. Linux, Windows, MacOS...
---> b) Programming Software:- 
+--> a) System Software:- System software are OS means operating system.It helps computer to run hardware and system. i.e. Linux, Windows, MacOS...
+--> b) Programming Software:- it is basically like compiler it convert programming language(High level Language) into machine language(Low level Language).
+--> c) Application software:- There are 3 types of Application software
+-->                                                                    i) Deskstop Application
+-->                                                                    ii) Web Application
+-->                                                                    iii) Mobile Application
+--> 
+--> i) Deskstop Application:- Application that run on desktop alone. i.e. Notepad, Paint, etc...
+--> ii)  Web Application:- Application that run on web browser alone. i.e. www.instagram.com, www.twitter.com, etc...
+--> iii) Mobile Application:- Application that run on mobile device alone. i.e. Youtube application, YonoSBI Application, etc...
+
+
+3. What is SDLC? Explain each phase of SDLC
+-->
