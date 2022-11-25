@@ -22,4 +22,24 @@
 
 
 3. What is SDLC? Explain each phase of SDLC
+--> SDLC means Software Devlopment Life Cycle.
+--> In SDLC describe the starting to end of any software devlopment.
+--> There are 6 phase of SDLC
+-->                          a) Requirements:-
+-->                          b) Analysis:-
+-->                          c) Design:-
+-->                          d) Implementation:-
+-->                          e) Testing:-
+-->                          f) Maintenance:-
+-->
+--> a) Requirements:- In this phase team get the requirements from the clients for the software.
+--> b) Analysis:- In this phase team analysis the requirements of the software with current(existing) software and make decision regarding it.
+--> c) Design:- In this phase team make the design of the software based on details pass down to them by analysis team. 
+--> d) Implementation:- In this phase where the enigneer comes into pictures they devlop the software based on the details they get from the previous teams also in this phase they do the devlopment.
+--> e) Testing:- This phase comes when the devlopment of the software completed and the software is ready for the user. In this phase team carry out the testing of the software and give the feedback and reviews to devlopment team to make changes if required.
+--> f) Maintenance:- This phase comes after the deployment of the software is already been taken place. In this phase when any error comes or any changes needed or any upgradation is required then the maintenance of the software is done by the team
+-->
+-->
+-->
+-->
 -->
