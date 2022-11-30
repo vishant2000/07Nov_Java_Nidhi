@@ -2,7 +2,7 @@
 
 void main()
 {
-	char name='N';
+	char name='V';
 	int rollno;
 	
 	printf("enter your rollno:");
