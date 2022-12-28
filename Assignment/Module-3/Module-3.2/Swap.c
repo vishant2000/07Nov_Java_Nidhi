@@ -3,8 +3,6 @@ void main()
 {
     int a;
     int b;
-    int *ptr;
-    ptr = &a;
     
     printf("Enter the value of a = ");
     scanf("%d",&a);
