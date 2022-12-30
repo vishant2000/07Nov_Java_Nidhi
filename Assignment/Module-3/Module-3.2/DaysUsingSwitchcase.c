@@ -1,3 +1,5 @@
+// WAP to show monday to sunday using switch case 
+
 #include<stdio.h>
 void main()
 {
