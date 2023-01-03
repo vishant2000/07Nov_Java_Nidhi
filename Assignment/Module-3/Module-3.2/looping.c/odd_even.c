@@ -3,31 +3,31 @@ void main()
 {
 
     int arr[10];
-    int i,e=0,o=0;
-    int even=0,odd=0;
+    int i,even=0,odd=0;
+    int sumofeven=0,sumofodd=0;
 
  
     printf("\n Enter 10 numbers: \n\n");
 
          for(i=0; i<10; i++)
            {
-            printf("Enter no. %d   : ",i+1);
+            printf("Enter no. %d : ",i+1);
             scanf("%d",&arr[i]);
              if(arr[i]%2==0)
              {
                 
-             e++;
-             even += arr[i];
+             even++;
+             sumofeven += arr[i];
              }
              else
              {
-             o++;
-             odd += arr[i];
+             odd++;
+             sumofodd += arr[i];
              }      
            }
         
-    printf("even numbers are: %d",e);
-    printf("\nodd numbers are: %d",o);
-    printf("\nSum of even: %d",even);
-    printf("\nSum of odd: %d",odd);
+    printf("You entered %d even numbers",even);
+    printf("\nYou entered %d odd numbers",odd);
+    printf("\nSum of even numbers: %d",sumofeven);
+    printf("\nSum of odd numbers: %d",sumofodd);
 }
