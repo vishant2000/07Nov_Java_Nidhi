@@ -1,6 +1,4 @@
-/*
-Write a program make a summation of given number
-*/
+// WAP make a summation of given number
 
 #include<stdio.h>  
 
