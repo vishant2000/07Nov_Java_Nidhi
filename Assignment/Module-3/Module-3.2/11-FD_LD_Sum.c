@@ -1,6 +1,4 @@
-/*
-Write a program you have to make a summation of first and last Digit.
-*/
+// WAP you have to make a summation of first and last Digit.
 
 #include <stdio.h>
 
